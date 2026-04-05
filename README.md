@@ -13,7 +13,7 @@ Currently exploring different areas in computer science and looking forward to b
 
 ## My Goals
 
-- [ ] Complete my first coding project
+- [*] Complete my first coding project
 - [ ] Contribute to an open-source repository
 - [ ] Learn a new programming language
 - [ ] Connect with other students and developers
